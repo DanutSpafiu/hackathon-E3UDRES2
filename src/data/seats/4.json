@@ -1,0 +1,100 @@
+{
+  "showId": "4",
+  "sections": [
+    {
+      "id": "parterre",
+      "name": "Parterre",
+      "price": 200,
+      "rows": [
+        { "row": "A", "seats": 20 },
+        { "row": "B", "seats": 20 },
+        { "row": "C", "seats": 20 },
+        { "row": "D", "seats": 20 },
+        { "row": "E", "seats": 20 },
+        { "row": "F", "seats": 20 },
+        { "row": "G", "seats": 20 },
+        { "row": "H", "seats": 20 },
+        { "row": "I", "seats": 20 },
+        { "row": "J", "seats": 20 },
+        { "row": "K", "seats": 20 },
+        { "row": "L", "seats": 20 },
+        { "row": "M", "seats": 20 },
+        { "row": "N", "seats": 20 },
+        { "row": "O", "seats": 20 },
+        { "row": "P", "seats": 20 },
+        { "row": "Q", "seats": 20 },
+        { "row": "R", "seats": 20 },
+        { "row": "S", "seats": 20 },
+        { "row": "T", "seats": 20 },
+        { "row": "U", "seats": 20 }
+      ],
+      "reserved": ["C12", "C13", "E8", "G15", "K9", "N11", "R7"]
+    },
+    {
+      "id": "balkon1",
+      "name": "Balkon 1",
+      "price": 155,
+      "rows": [
+        { "row": "A", "seats": 15 },
+        { "row": "B", "seats": 15 },
+        { "row": "C", "seats": 15 },
+        { "row": "D", "seats": 15 },
+        { "row": "E", "seats": 15 },
+        { "row": "F", "seats": 15 }
+      ],
+      "reserved": ["A10", "C5", "E14"]
+    },
+    {
+      "id": "balkon2",
+      "name": "Balkon 2",
+      "price": 100,
+      "rows": [
+        { "row": "A", "seats": 10 },
+        { "row": "B", "seats": 10 },
+        { "row": "C", "seats": 10 },
+        { "row": "D", "seats": 10 },
+        { "row": "E", "seats": 10 }
+      ],
+      "reserved": ["B3", "D9"]
+    },
+    {
+      "id": "loge-left",
+      "name": "Loge Left",
+      "price": 250,
+      "boxes": [
+        { "box": "1", "seats": 4 },
+        { "box": "2", "seats": 4 },
+        { "box": "3", "seats": 4 },
+        { "box": "4", "seats": 4 },
+        { "box": "5", "seats": 4 },
+        { "box": "6", "seats": 4 }
+      ],
+      "reserved": ["Box1-Seat1", "Box1-Seat2", "Box5-Seat3"]
+    },
+    {
+      "id": "loge-right",
+      "name": "Loge Right",
+      "price": 250,
+      "boxes": [
+        { "box": "1", "seats": 4 },
+        { "box": "2", "seats": 4 },
+        { "box": "3", "seats": 4 },
+        { "box": "4", "seats": 4 },
+        { "box": "5", "seats": 4 },
+        { "box": "6", "seats": 4 }
+      ],
+      "reserved": ["Box3-Seat2", "Box6-Seat4"]
+    },
+    {
+      "id": "galerie",
+      "name": "Galerie",
+      "price": 55,
+      "rows": [
+        { "row": "A", "seats": 25 },
+        { "row": "B", "seats": 25 },
+        { "row": "C", "seats": 25 }
+      ],
+      "reserved": ["A22", "B9", "C14"]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "title": "Die Zauberflöte",
+    "composer": "Wolfgang Amadeus Mozart",
+    "date": "2025-12-15",
+    "time": "19:00",
+    "image": "https://images.pexels.com/photos/7991319/pexels-photo-7991319.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Mozart's beloved opera tells the story of Prince Tamino and his quest to rescue Pamina, the daughter of the Queen of the Night. With the help of the bird-catcher Papageno and a magical flute, they must pass through trials of fire and water. This timeless masterpiece combines profound philosophy with enchanting music, featuring some of opera's most memorable arias including the Queen of the Night's dazzling coloratura showcase.",
+    "duration": "3 hours (including intervals)",
+    "language": "German with English subtitles"
+  },
+  {
+    "id": "2",
+    "title": "La Traviata",
+    "composer": "Giuseppe Verdi",
+    "date": "2025-12-18",
+    "time": "19:30",
+    "image": "https://images.pexels.com/photos/3324591/pexels-photo-3324591.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Verdi's tragic tale of love and sacrifice follows Violetta Valéry, a celebrated Parisian courtesan who falls deeply in love with the young nobleman Alfredo Germont. Their passionate romance faces insurmountable obstacles as social conventions and family honor threaten to tear them apart. One of the most performed operas worldwide, La Traviata features sublime music including the famous 'Libiamo ne' lieti calici' drinking song.",
+    "duration": "2 hours 45 minutes",
+    "language": "Italian with English subtitles"
+  },
+  {
+    "id": "3",
+    "title": "Swan Lake",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "date": "2025-12-20",
+    "time": "18:00",
+    "image": "https://images.pexels.com/photos/8191609/pexels-photo-8191609.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Tchaikovsky's immortal ballet tells the story of Prince Siegfried and the beautiful swan maiden Odette, who is under an evil sorcerer's spell. The Vienna State Ballet brings this romantic classic to life with breathtaking choreography, featuring the iconic 'Dance of the Little Swans' and the mesmerizing dual role of Odette/Odile. Experience one of ballet's greatest masterpieces performed by world-class dancers.",
+    "duration": "3 hours 15 minutes",
+    "language": "Ballet (no dialogue)"
+  },
+  {
+    "id": "4",
+    "title": "Der Rosenkavalier",
+    "composer": "Richard Strauss",
+    "date": "2025-12-22",
+    "time": "17:00",
+    "image": "https://images.pexels.com/photos/7991224/pexels-photo-7991224.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Strauss's opulent comedy of manners set in 18th-century Vienna explores themes of love, aging, and sacrifice. The Marschallin, aware of her advancing years, must face the reality that her young lover Octavian will eventually leave her. When she sends him to deliver a silver rose to the young Sophie on behalf of her cousin Baron Ochs, unexpected romance blooms. Rich in waltz melodies and featuring one of opera's most sublime final trios.",
+    "duration": "3 hours 30 minutes",
+    "language": "German with English subtitles"
+  },
+  {
+    "id": "5",
+    "title": "Carmen",
+    "composer": "Georges Bizet",
+    "date": "2025-12-28",
+    "time": "19:00",
+    "image": "https://images.pexels.com/photos/7944348/pexels-photo-7944348.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "Set in Seville, this passionate tale follows the free-spirited gypsy Carmen and her doomed romance with the soldier Don José. Carmen's refusal to be tamed leads to a tragic conclusion in this story of obsession, jealousy, and fatal passion. Bizet's score includes some of opera's most recognizable music: the 'Habanera', the 'Toreador Song', and the 'Seguidilla'. A thrilling exploration of desire and destiny.",
+    "duration": "2 hours 50 minutes",
+    "language": "French with English subtitles"
+  },
+  {
+    "id": "6",
+    "title": "The Nutcracker",
+    "composer": "Pyotr Ilyich Tchaikovsky",
+    "date": "2025-12-30",
+    "time": "15:00",
+    "image": "https://images.pexels.com/photos/8191637/pexels-photo-8191637.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "description": "A magical Christmas ballet perfect for the whole family. Follow young Clara as her Nutcracker doll comes to life and whisks her away to the Land of Sweets, where she meets the Sugar Plum Fairy and witnesses spectacular dances from around the world. Tchaikovsky's enchanting score includes the beloved 'Dance of the Sugar Plum Fairy' and the grand 'Waltz of the Flowers'. A festive tradition that captures the wonder of childhood and the magic of the season.",
+    "duration": "2 hours",
+    "language": "Ballet (no dialogue)"
+  }
+]
